@@ -4,6 +4,6 @@ I work at [Tinkoff](https://www.tinkoff.ru/). If you would like to discuss somet
 
 ---
 
-<a href="https://github.com/juev/juev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
-</a>
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=juev&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+
+![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juev&theme=tokyonight&layout=compact)
