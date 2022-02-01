@@ -1,6 +1,6 @@
 # Hello, nerds 👋
 
-Long-time devops.
+I'm Golang programmer with experience of DevOPS.
 
 * Twitter: [@juev](https://twitter.com/juev)
 * Github: [@juev](https://github.com/juev)
