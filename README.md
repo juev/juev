@@ -11,3 +11,31 @@ I'm Golang programmer with experience of DevOPS.
 * Pronouns: he/him
 
 You can also [ask me anything](https://github.com/juev/ama) (within reason). You can look to my [awesome-stars](https://github.com/juev/awesome-stars)!
+
+## Github
+
+<a href="https://github.com/juev">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/juev">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/juev">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/juev">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/juev">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/juev">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/juev">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
