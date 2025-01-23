@@ -17,7 +17,7 @@ You can look to my [awesome-stars](https://github.com/juev/awesome-stars)!
 
 - 🌱 I’m currently learning and exploring new technologies.
 - 💼 I’m looking to collaborate on interesting open-source projects.
-- 📫 How to reach me: [Your LinkedIn](https://linkedin.com/in/denis-evsyukov)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/denis-evsyukov)
 
 ## 📈 GitHub Stats
 
