@@ -1,6 +1,6 @@
-# Hello, nerds 👋
+# Hi there, I'm Denis! 👋
 
-I'm Golang programmer with experience of DevOPS.
+I'm Golang programmer.
 
 * Twitter: [@juev](https://twitter.com/juev)
 * Github: [@juev](https://github.com/juev)
@@ -12,3 +12,19 @@ I'm Golang programmer with experience of DevOPS.
 * Pronouns: he/him
 
 You can look to my [awesome-stars](https://github.com/juev/awesome-stars)!
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning and exploring new technologies.
+- 💼 I’m looking to collaborate on interesting open-source projects.
+- 📫 How to reach me: [Your LinkedIn](https://linkedin.com/in/denis-evsyukov)
+
+## 📈 GitHub Stats
+
+![juev's GitHub stats](https://github-readme-stats.vercel.app/api?username=juev&show_icons=true&theme=radical)
+
+## 📫 Get in Touch
+
+Feel free to reach out to me via [email](mailto:denis@evsyukov.org) or connect with me on [LinkedIn](https://linkedin.com/in/denis-evsyukov).
+
+Thanks for visiting my profile, and happy coding! 😊
