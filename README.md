@@ -2,7 +2,6 @@
 
 I'm Golang programmer.
 
-* Twitter: [@juev](https://twitter.com/juev)
 * Github: [@juev](https://github.com/juev)
 * Linkedin: [denis-evsyukov](https://www.linkedin.com/in/denis-evsyukov/)
 * Summary: [Denis_Evsyukov.pdf](https://github.com/juev/about.me/raw/master/Resume/Denis_Evsyukov.pdf)
