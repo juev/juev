@@ -18,10 +18,6 @@ You can look to my [awesome-stars](https://github.com/juev/awesome-stars)!
 - 💼 I’m looking to collaborate on interesting open-source projects.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/denis-evsyukov)
 
-## 📈 GitHub Stats
-
-![juev's GitHub stats](https://github-readme-stats.vercel.app/api?username=juev&show_icons=true&theme=radical)
-
 ## 📫 Get in Touch
 
 Feel free to reach out to me via [email](mailto:denis@evsyukov.org) or connect with me on [LinkedIn](https://linkedin.com/in/denis-evsyukov).
